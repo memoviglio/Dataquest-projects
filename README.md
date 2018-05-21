@@ -1,3 +1,3 @@
-# hello-world
+# Github introduction
 
-this is a test type. I find this place interesting 
+This repository consists of Dataquest projects I made with jupyter notebook
